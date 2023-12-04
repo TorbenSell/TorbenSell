@@ -1,6 +1,6 @@
 Hi,
 
-I'm Torben Sell, a postdoc at the University of Edinburgh, UK.
+I'm Torben Sell, a lecturer in machine learning at the University of Edinburgh, UK.
 
 If you have any questions on any of my repos, feel free to email me at torben.sell at ed.ac.uk 😊
 
